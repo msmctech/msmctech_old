@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 name: MSMCTech
 markdown: kramdown
-theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
