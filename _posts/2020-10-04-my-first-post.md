@@ -1,5 +1,6 @@
 ---
 layout: post
+tag: hola
 title: "msmctech, My First Post!"
 date: 2020-10-04
 ---
