@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
-name: MSMCTech
+theme: minima
+name: msmctech
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
